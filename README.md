@@ -1,3 +1,4 @@
-# This is arepo made from the terminal
+# This is a repo made from the terminal
 ### Author:
 Subhajit Das
+## Some modifications
